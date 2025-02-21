@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/0b3ba5faec37a7909b911f972f57e85c.jpg');
+    background-image: url('img/studioiconsbg.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/0b3ba5faec37a7909b911f972f57e85c.jpg');
+    background-image: url('img/studioiconsbg.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
