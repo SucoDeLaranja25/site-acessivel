@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #4f95ff;
     --alto-contraste-fundo: #1b1b1b;
-    --alto-contraste-texto: #b4b4b4;
+    --alto-contraste-texto: #329fd1;
     --alto-contraste-link: #0043a8;
 }
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #888997;
+    color: #1c9ad4;
     font-weight: 600;
 }
 
